@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
     background-color: #2C2B3D;
@@ -115,10 +116,9 @@ hr{
 }
 
 #padlock{
-    display: flex;
     position: fixed;
-    
-    left: 0;
+    bottom: 20px;
+    left: 20px;
 }
 
 /* font-family: 'JetBrains Mono', monospace;
